@@ -19,12 +19,6 @@ This project is a Multi-Agent AI application built using CrewAI that automatical
 * YouTube Data/Transcript API
 * Large Language Models (LLMs)
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Project Workflow
 
 1. Research Agent analyzes YouTube video content.
